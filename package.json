@@ -9,20 +9,20 @@
     "url": "git://github.com/marijnh/Eloquent-JavaScript.git"
   },
   "dependencies": {
-    "acorn": "^5.1.0",
-    "codemirror": "^5.37.0",
-    "hjson": "^3.1.0",
-    "jszip": "^2.5.0",
-    "markdown-it": "^8.4.0",
-    "markdown-it-sub": "^1.0.0",
-    "markdown-it-sup": "^1.0.0",
-    "mime": "^2.3.1",
-    "mold-template": "^2.0.1",
-    "uglify-js": "^2.0.0"
+    "acorn": "^8.11.3",
+    "codemirror": "^6.0.1",
+    "hjson": "^3.2.2",
+    "jszip": "^3.10.1",
+    "markdown-it": "^14.0.0",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "mime": "^4.0.1",
+    "mold-template": "^2.0.2",
+    "uglify-js": "^3.17.4"
   },
   "devDependencies": {
-    "jsdom": "^11.2.0",
-    "promise": "^8.0.1"
+    "jsdom": "^24.0.0",
+    "promise": "^8.3.0"
   },
   "scripts": {
     "test": "make test"
